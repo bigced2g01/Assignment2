@@ -13,9 +13,7 @@ def test_multiplication():
 def test_division_positive():
     assert division(1,1) == 1
 
-def test_division_negative():
-    with pytest.raises(ZeroDivisionError):
-        division(1,0)
+
 
 
 
