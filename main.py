@@ -1,3 +1,6 @@
+import sys
+print(sys.path)
+
 # This line is importing the "calculator" function from another file.
 # Imagine that "calculator" is like a tool or recipe that we've already written somewhere else,
 # and now we are telling the computer, "Go and find that calculator tool for us."
